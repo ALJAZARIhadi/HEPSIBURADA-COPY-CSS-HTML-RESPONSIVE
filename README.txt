@@ -2,16 +2,12 @@ The copy i did:>>
 
 <img width="1361" height="601" alt="Image" src="https://github.com/user-attachments/assets/26dd17e0-cd15-4290-a7fa-f3f8f4f3b7dd" />
 
-<img width="1226" height="721" alt="Image" src="https://github.com/user-attachments/assets/a470ad1f-278c-4b49-a31f-81d677c31b73" />
 
-<img width="1347" height="593" alt="Image" src="https://github.com/user-attachments/assets/909da995-7d2d-48c2-993f-531f22001075" />
 
 The Main Page of the site 
+
 <img width="1341" height="583" alt="Image" src="https://github.com/user-attachments/assets/e675d306-3d9b-403e-9405-49a11c869b33" />
 
-<img width="1347" height="672" alt="Image" src="https://github.com/user-attachments/assets/967fe7cd-06d2-4722-b4d3-a047d88abfa3" />
-
-<img width="719" height="691" alt="Image" src="https://github.com/user-attachments/assets/9ccc9688-40c3-4e43-8ac5-52dab0375105" />
 
 
 Proje Analiz ve Bilgi Dosyası (README)
