@@ -1,12 +1,9 @@
 The copy i did:>>
 
-<img width="1361" height="601" alt="Image" src="https://github.com/user-attachments/assets/26dd17e0-cd15-4290-a7fa-f3f8f4f3b7dd" />
-
+<img width="1341" height="583" alt="Image" src="https://github.com/user-attachments/assets/34f95524-a304-4aaf-badf-4be38d92660e" />
 
 
 The Main Page of the site 
-
-<img width="1341" height="583" alt="Image" src="https://github.com/user-attachments/assets/e675d306-3d9b-403e-9405-49a11c869b33" />
 
 
 
